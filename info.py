@@ -48,7 +48,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #maximum search result buttos count in number#
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
-START_MESSAGE = environ.get('START_MESSAGE', '😝 𝗛𝗮𝘆 {user}\n\n𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 {bot},\n𝗶 𝗮𝗺 𝗮 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹𝗹 𝗮𝘂𝘁𝗼𝗳𝗶𝗹𝘁𝗲𝗿 𝗺𝗮𝗻𝘂𝗮𝗹𝗳𝗶𝗹𝘁𝗲𝗿 𝗯𝗼𝘁.\n𝘆𝗼𝘂 𝗰𝗮𝗻 𝘂𝘀𝗲 𝗺𝗲 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗶 𝘄𝗶𝗹𝗹 𝗴𝗶𝘃𝗲 𝗺𝗼𝘃𝗶𝗲𝘀 𝗮𝗻𝗱 𝘀𝗲𝗿𝗶𝗲𝘀 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗮𝗻𝗱 𝗽𝗺.\n𝗷𝘂𝘀𝘁 𝗮𝗱𝗱 𝗺𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗮𝗻𝗱 𝗺𝗮𝗸𝗲 𝗺𝗲 𝗔𝗱𝗺𝗶𝗻 ♚')
+START_MESSAGE = environ.get('START_MESSAGE', '<b>ʜᴀʏ 👋 {user}\n\nɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ + ᴍᴀɴᴜᴀʟꜰɪʟᴛᴇʀ ʙᴏᴛ..\nʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇꜱ ᴏʀ ꜱᴇʀɪᴇꜱ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.\nᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ♚')
 BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", "⚠️ 𝙃𝙚𝙮 {query}! 𝙏𝙝𝙖𝙩'𝙨 𝙉𝙤𝙩 𝙁𝙤𝙧 𝙔𝙤𝙪. 𝙋𝙡𝙚𝙖𝙨𝙚 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙔𝙤𝙪𝙧 𝙊𝙬𝙣")
 FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', '<b>⇒ ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ\n\nᴄʟɪᴄᴋ ʙᴇʟʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴊᴏɪɴ ɴᴏᴡ\n\nमूवी लेने के लिए आपको नीचे ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ पर ᴄʟɪᴄᴋ करके\nचैनल ᴊᴏɪɴ करना है।\n\nउसके बाद यहां नीचे ᴛʀʏ ᴀɢᴀɪɴ पर ᴄʟɪᴄᴋ करना है । आपको मूवी मिल जायेगी।</b>')
 RemoveBG_API = environ.get("RemoveBG_API", "")
