@@ -48,9 +48,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 #maximum search result buttos count in number#
 MAX_RIST_BTNS = int(environ.get('MAX_RIST_BTNS', "10"))
-START_MESSAGE = environ.get('START_MESSAGE', '👋 𝙷𝙴𝙻𝙾 {user}\n\n𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {bot},\n𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽...')
+START_MESSAGE = environ.get('START_MESSAGE', '💘 𝐇𝐞𝐥𝐥𝐨 {user}\n\n𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 {bot},\n𝐢 𝐚𝐦 𝐚 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐚𝐮𝐭𝐨𝐟𝐢𝐥𝐭𝐞𝐫 + 𝐦𝐚𝐧𝐮𝐚𝐥𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n𝐲𝐨𝐮 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐦𝐞 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐢 𝐰𝐢𝐥𝐥 𝐠𝐢𝐯𝐞 𝐦𝐨𝐯𝐢𝐞𝐬 𝐨𝐫 𝐬𝐞𝐫𝐢𝐞𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐚𝐧𝐝 𝐩𝐦.\n𝐣𝐮𝐬𝐭 𝐚𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐦𝐚𝐤𝐞 𝐦𝐞 𝐚𝐬 𝐚 𝐚𝐝𝐦𝐢𝐧')
 BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", "⚠️ 𝙃𝙚𝙮 {query}! 𝙏𝙝𝙖𝙩'𝙨 𝙉𝙤𝙩 𝙁𝙤𝙧 𝙔𝙤𝙪. 𝙋𝙡𝙚𝙖𝙨𝙚 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙔𝙤𝙪𝙧 𝙊𝙬𝙣")
-FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', '𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑻𝒐 𝑼𝒔𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕!')
+FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', '<b>𝐘𝐨𝐮 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐮𝐩𝐝𝐚𝐭𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐭𝐨 𝐠𝐞𝐭 𝐲𝐨𝐮𝐫 𝐦𝐨𝐯𝐢𝐞\n\n𝐜𝐥𝐢𝐜𝐤 𝐛𝐞𝐥𝐥𝐨𝐰 𝐛𝐮𝐭𝐭𝐨𝐧 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐧𝐨𝐰\n\nमूवी लेने के लिए आपको नीचे ✧ 𝐉𝐨𝐢𝐧 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 ✧ पर ᴄʟɪᴄᴋ करके\nचैनल ᴊᴏɪɴ करना है।\n\nउसके बाद यहां नीचे *◤✧  𝐓𝐫𝐲 𝐚𝐠𝐚𝐢𝐧  ✧◥ *पर ᴄʟɪᴄᴋ करना है । आपको मूवी मिल जायेगी।</b>')
 RemoveBG_API = environ.get("RemoveBG_API", "")
 WELCOM_PIC = environ.get("WELCOM_PIC", "")
 WELCOM_TEXT = environ.get("WELCOM_TEXT", "Hai {user}\nwelcome to {chat}")
