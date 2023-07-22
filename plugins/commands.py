@@ -22,9 +22,9 @@ BATCH_FILES = {}
 async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[           
-            InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url=f'https://t.me/{SUPPORT_CHAT}')
             ],[
-            InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿 ℹ️', url=f"https://t.me/{temp.U_NAME}?start=help")
+            InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help")
             ]]
         await message.reply(START_MESSAGE.format(user=message.from_user.mention if message.from_user else message.chat.title, bot=temp.B_LINK), reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)                    
         await asyncio.sleep(2) 
@@ -40,11 +40,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("〆 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 〆", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("ᴍʏ ɢʀᴏᴜᴘs", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("ᴍʏ ɢʀᴏᴜᴘs", url='t.me/Sn_Grp'), 
+            InlineKeyboardButton("♛ ᴏᴡɴᴇʀ", url='t.me/heartlesssn')
             ],[
-            InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
-            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            InlineKeyboardButton("ℵ ʜᴇʟᴘ", callback_data="help"),
+            InlineKeyboardButton("♔ ᴀʙᴏᴜᴛ", callback_data="about")
+            ],[
+            InlineKeyboardButton("⋆ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⋆", url='t.me/crazybotz')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
@@ -90,11 +92,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton("〆 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 〆", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("ᴍʏ ɢʀᴏᴜᴘs", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/mkn_bots_updates")
+            InlineKeyboardButton("ᴍʏ ɢʀᴏᴜᴘs", url='t.me/Sn_Grp'), 
+            InlineKeyboardButton("♛ ᴏᴡɴᴇʀ", url='t.me/heartlesssn')
             ],[
-            InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
-            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
+            InlineKeyboardButton("ℵ ʜᴇʟᴘ", callback_data="help"),
+            InlineKeyboardButton("♔ ᴀʙᴏᴜᴛ", callback_data="about")
+            ],[
+            InlineKeyboardButton("⋆ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⋆", url='t.me/crazybotz')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
