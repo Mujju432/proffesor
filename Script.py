@@ -54,18 +54,18 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     AUTOFILTER_TXT = """<b>ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 ⇒ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ᴏɴ/ᴏꜰꜰ ᴍᴏᴅᴜʟᴇ
-✔️ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ</u>
+▷ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴏɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ</u>
 
 • /autofilter on - ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ᴇɴᴀʙʟᴇ ɪɴ ʏᴏʀ ᴄʜᴀᴛ
 • /autofilter off - ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ᴅɪꜱᴀʙʟᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ 
 
 ⇒ ꜱᴇᴛ ᴄᴏꜱᴛᴏᴍ ᴛᴇᴍᴘʟᴀᴛᴇ ꜰᴏʀ ɢʀᴏᴜᴘ
 
-✔️ ᴄᴏᴍᴍᴀɴᴅꜱ
+▷ ᴄᴏᴍᴍᴀɴᴅꜱ
 • /set_template - ꜱᴇᴛ ᴄᴏꜱᴛᴏᴍ ɪᴍᴅʙ ᴛᴇᴍᴘʟᴀᴛᴇ ꜰᴏʀ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ 
 • /get_template - ɢᴇᴛ ᴄᴜʀʀᴇɴᴛ ɪᴍᴅʙ ᴛᴇᴍᴘʟᴀᴛᴇ ᴏꜰ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ.
 
-Ⓜ️ ᴍᴏʀᴇ ᴄᴏᴍᴍɪɴɢ ꜱᴏᴏɴ</b>"""
+▷ ᴍᴏʀᴇ ᴄᴏᴍᴍɪɴɢ ꜱᴏᴏɴ</b>"""
 
     CONNECTION_TXT = """<b>ʜᴇʟᴘ: ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ
 - ᴜꜱᴇᴅ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ᴘᴍ ꜰᴏʀ ᴍᴀɴᴀɢɪɴɢ ꜰɪʟᴛᴇʀꜱ 
@@ -74,20 +74,18 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 1. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ᴀ ᴄᴏɴɴᴇᴄᴛɪᴏɴ.
 2. ꜱᴇɴᴅ <code>/ᴄᴏɴɴᴇᴄᴛ</code> ꜰᴏʀ ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴘᴍ
 Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
-• /connect  - <code>ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ</code>
-• /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
-• /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code></b>"""
+• /connect  - ᴄᴏɴɴᴇᴄᴛ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴄʜᴀᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ
+• /disconnect  - ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ
+• /connections - ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</b>"""
 
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
-
-<b>NOTE:</b>
-these are the extra features of this bot
-
-<b>Commands and Usage:</b>
-• /id - <code>get id of a specifed user.</code>
-• /info  - <code>get information about a user.</code>
-• /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+    EXTRAMOD_TXT = """<b>ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
+<b>ɴᴏᴛᴇ:</b>
+ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ
+Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+• /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code>
+• /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
+• /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ ꜱᴏᴜʀᴄᴇ.</code>
+• /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜꜱ ꜱᴏᴜʀᴄᴇꜱ.</code></b>"""
 
     ADMIN_TXT = """<b>ɴᴏᴛᴇ:</b>
 <code>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</code>
